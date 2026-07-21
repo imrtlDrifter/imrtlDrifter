@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hihikaaa&label=Profile%20views&color=0e75b6&style=flat" alt="imrtldrifter" /> </p>
 <h3>🖥️About me</h3>
 <ul>
- <li>👀 23 years old</li>
+ <li>👀 20 years old</li>
   <li>🏫 Middle+ Backend Developer/Mentor</li>
   </ul>
 
